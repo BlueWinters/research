@@ -8,7 +8,7 @@ Useful Links Of Machine Learning
 
 ### Generative Model
 - **InfoGAN**: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([pdf](https://arxiv.org/abs/1606.03657), [code](https://github.com/openai/InfoGAN))
-- **VAE**: Auto-Encoding Variational Bayes([pdf](https://arxiv.org/abs/1312.6114))
+- **VAE**: Auto-Encoding Variational Bayes([pdf](https://arxiv.org/abs/1312.6114), [tensorflow](https://github.com/y0ast/VAE-TensorFlow))
 - **PixelCNN**: Conditional Image Generation with PixelCNN Decoders([pdf](https://arxiv.org/abs/1606.05328.pdf))
 
 ### Architeture Of Deep Network
