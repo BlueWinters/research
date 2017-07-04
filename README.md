@@ -7,6 +7,7 @@ Useful Links Of Machine Learning
 ## Neutral Network
 
 ### Generative Model
+- **GAN**: Generative Adversarial Networks ([pdf](https://arxiv.org/abs/1406.2661), code)
 - **InfoGAN**: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([pdf](https://arxiv.org/abs/1606.03657), [code](https://github.com/openai/InfoGAN))
 - **VAE**: Auto-Encoding Variational Bayes ([pdf](https://arxiv.org/abs/1312.6114), [tensorflow](https://github.com/y0ast/VAE-TensorFlow))
 - **PixelRNN**: Pixel Recurrent Neural Networks ([pdf](https://arxiv.org/abs/1601.06759))
@@ -23,15 +24,17 @@ Useful Links Of Machine Learning
 	+ **v4**: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning ([pdf](https://arxiv.org/abs/1602.07261))
 	
 ### Uncategorized
-- Deep Photo Style Transfer: ([pdf](https://arxiv.org/abs/1703.07511), [code](https://github.com/luanfujun/deep-photo-styletransfer))
+- Deep Photo Style Transfer ([pdf](https://arxiv.org/abs/1703.07511), [code](https://github.com/luanfujun/deep-photo-styletransfer))
 - Ladder Networks:
-	+ Lateral Connections in Denoising Autoencoders ([pdf]())
-	+ From Neural PCA to Deep Unsupervised Learning ([pdf]())
+	+ Lateral Connections in Denoising Autoencoders (pdf)
+	+ From Neural PCA to Deep Unsupervised Learning (pdf)
 	+ Semi-Supervised Learning with Ladder Networks ([pdf](https://arxiv.org/abs/1507.02672))
 	+ Deconstructing the Ladder Network Architecture ([pdf](https://arxiv.org/abs/1511.06430))
 
 	
 ## Conferentce Paper
-- CVPR ([2017](http://cvpr2017.thecvf.com/program/main_conference))
+- NIPS ([2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
+- CVPR ([2017](http://cvpr2017.thecvf.com/program/main_conference), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
+- ECCV ([2016](http://www.eccv2016.org/main-conference/))
 
