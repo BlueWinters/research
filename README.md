@@ -30,7 +30,7 @@ Useful Links Of Machine Learning
 - Deep Photo Style Transfer ([pdf](https://arxiv.org/abs/1703.07511), [code](https://github.com/luanfujun/deep-photo-styletransfer))
 - Ladder Networks:
 	+ Lateral Connections in Denoising Autoencoders (pdf)
-	+ From Neural PCA to Deep Unsupervised Learning (pdf)
+	+ From Neural PCA to Deep Unsupervised Learning ([pdf](https://arxiv.org/abs/1411.7783))
 	+ Semi-Supervised Learning with Ladder Networks ([pdf](https://arxiv.org/abs/1507.02672))
 	+ Deconstructing the Ladder Network Architecture ([pdf](https://arxiv.org/abs/1511.06430))
 
