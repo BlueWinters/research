@@ -13,7 +13,7 @@ Useful Links Of Machine Learning
 - **PixelRNN**: Pixel Recurrent Neural Networks ([pdf](https://arxiv.org/abs/1601.06759))
 - **PixelCNN**: Conditional Image Generation with PixelCNN Decoders ([pdf](https://arxiv.org/abs/1606.05328))
 
-### Convolution Network
+### Variants Of Convolution Network
 - Convolution Guide: A guide to convolution arithmetic for deeplearning ([pdf](https://arxiv.org/abs/1603.07285))
 - Deformable Convolutional Networks ([pdf](http://arxiv.org/abs/1703.06211), [mxnet](https://github.com/felixlaumon/deform-conv))
 - Spatial Transformer Networks ([pdf](https://arxiv.org/abs/1506.02025), [tensorflow](https://github.com/tensorflow/models/tree/master/transformer))
@@ -25,13 +25,17 @@ Useful Links Of Machine Learning
 	+ **v2**: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](http://arxiv.org/abs/1502.03167))
 	+ **v3**: Rethinking the Inception Architecture for Computer Vision ([pdf](http://arxiv.org/abs/1512.00567))
 	+ **v4**: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning ([pdf](https://arxiv.org/abs/1602.07261))
+- **DenseNet**: Densely Connected Convolutional Networks ([pdf](Densely Connected Convolutional Networks), [code](https://github.com/liuzhuang13/DenseNet))
+	
+### Tricks For Training Network
+- Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
 	
 ### Uncategorized
 - Deep Photo Style Transfer ([pdf](https://arxiv.org/abs/1703.07511), [code](https://github.com/luanfujun/deep-photo-styletransfer))
 - Ladder Networks:
 	+ Lateral Connections in Denoising Autoencoders (pdf)
 	+ From Neural PCA to Deep Unsupervised Learning ([pdf](https://arxiv.org/abs/1411.7783))
-	+ Semi-Supervised Learning with Ladder Networks ([pdf](https://arxiv.org/abs/1507.02672))
+	+ Semi-Supervised Learning with Ladder Networks ([pdf](https://arxiv.org/abs/1507.02672), [theano](https://github.com/CuriousAI/ladder), [tensorflow](https://github.com/rinuboney))
 	+ Deconstructing the Ladder Network Architecture ([pdf](https://arxiv.org/abs/1511.06430))
 
 	
