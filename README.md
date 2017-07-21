@@ -41,7 +41,7 @@ Useful Links Of Machine Learning
 	
 ## Conferentce Paper
 - NIPS ([2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
-- CVPR ([2017](http://cvpr2017.thecvf.com/program/main_conference), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
+- CVPR ([2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
 - ECCV ([2016](http://www.eccv2016.org/main-conference/))
 
