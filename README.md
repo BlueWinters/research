@@ -6,6 +6,9 @@ Useful Links Of Machine Learning
 
 ## Neutral Network
 
+### Autoencoders
+- Adversarial Autoencoders([pdf](https://arxiv.org/abs/1511.05644))
+
 ### Generative Model
 - **GAN**: Generative Adversarial Networks ([pdf](https://arxiv.org/abs/1406.2661), code)
 - **InfoGAN**: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([pdf](https://arxiv.org/abs/1606.03657), [code](https://github.com/openai/InfoGAN))
@@ -25,7 +28,7 @@ Useful Links Of Machine Learning
 	+ **v2**: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](http://arxiv.org/abs/1502.03167))
 	+ **v3**: Rethinking the Inception Architecture for Computer Vision ([pdf](http://arxiv.org/abs/1512.00567))
 	+ **v4**: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning ([pdf](https://arxiv.org/abs/1602.07261))
-- **DenseNet**: Densely Connected Convolutional Networks ([pdf](Densely Connected Convolutional Networks), [code](https://github.com/liuzhuang13/DenseNet))
+- **DenseNet**: Densely Connected Convolutional Networks ([pdf](https://arxiv.org/abs/1608.06993), [code](https://github.com/liuzhuang13/DenseNet))
 	
 ### Tricks For Training Network
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
@@ -44,4 +47,5 @@ Useful Links Of Machine Learning
 - CVPR ([2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
 - ECCV ([2016](http://www.eccv2016.org/main-conference/))
+- ICCV ([2015](http://pamitc.org/iccv15/program.php))
 
