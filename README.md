@@ -6,6 +6,9 @@ Useful Links Of Machine Learning
 
 ## Neutral Network
 
+### Autoencoders
+- Adversarial Autoencoders([pdf](https://arxiv.org/abs/1511.05644))
+
 ### Generative Model
 - **GAN**: Generative Adversarial Networks ([pdf](https://arxiv.org/abs/1406.2661), code)
 - **InfoGAN**: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([pdf](https://arxiv.org/abs/1606.03657), [code](https://github.com/openai/InfoGAN))
