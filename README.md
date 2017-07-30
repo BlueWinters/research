@@ -7,7 +7,7 @@ Useful Links Of Machine Learning
 ## Neutral Network
 
 ### Autoencoders
-- Adversarial Autoencoders([pdf](https://arxiv.org/abs/1511.05644))
+- Adversarial Autoencoders ([pdf](https://arxiv.org/abs/1511.05644), [theano](https://github.com/hjweide/adversarial-autoencoder), [pytorch](https://github.com/fducau/AAE_pytorch))
 
 ### Generative Model
 - **GAN**: Generative Adversarial Networks ([pdf](https://arxiv.org/abs/1406.2661), code)
