@@ -42,7 +42,7 @@ Useful Links Of Machine Learning
 	+ Deconstructing the Ladder Network Architecture ([pdf](https://arxiv.org/abs/1511.06430))
 
 ## Conferentce Paper
-- NIPS ([2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
+- NIPS ([2017](https://nips.cc/Conferences/2017/Schedule?showParentSession=8797), [2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
 - ICML ([2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster), [2016](http://icml.cc/2016/?page_id=1649), [2015])
 - CVPR ([2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
