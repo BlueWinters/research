@@ -32,6 +32,9 @@ Useful Links Of Machine Learning
 	
 ### Tricks For Training Network
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
+
+### Face Recognition
+- FaceNet: A Unified Embedding for Face Recognition and Clustering ([pdf](https://arxiv.org/abs/1503.03832.pdf))
 	
 ### Uncategorized
 - Deep Photo Style Transfer ([pdf](https://arxiv.org/abs/1703.07511), [code](https://github.com/luanfujun/deep-photo-styletransfer))
@@ -43,7 +46,7 @@ Useful Links Of Machine Learning
 
 ## Conferentce Paper
 - NIPS ([2017](https://nips.cc/Conferences/2017/Schedule?showParentSession=8797), [2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
-- ICML ([2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster), [2016](http://icml.cc/2016/?page_id=1649), [2015])
+- ICML ([2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster), [2016](http://icml.cc/2016/?page_id=1649), [2015]())
 - CVPR ([2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
 - ECCV ([2016](http://www.eccv2016.org/main-conference/))
