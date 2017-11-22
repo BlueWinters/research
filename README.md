@@ -29,11 +29,16 @@ Useful Links Of Machine Learning
 	+ **v3**: Rethinking the Inception Architecture for Computer Vision ([pdf](http://arxiv.org/abs/1512.00567))
 	+ **v4**: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning ([pdf](https://arxiv.org/abs/1602.07261))
 - **DenseNet**: Densely Connected Convolutional Networks ([pdf](https://arxiv.org/abs/1608.06993), [code](https://github.com/liuzhuang13/DenseNet))
+- **SiameseNet**: Siamese Neural Networks for One-shot Image Recognition ([pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf))
 	
 ### Tricks For Training Network
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
 
 ### Face Recognition
+- DeepID1: Deep Learning Face Representation from Predicting 10,000 Classes ([pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf))
+- DeepID2: Deep Learning Face Representation by Joint Identification-Verification ([pdf](https://arxiv.org/abs/1406.4773))
+- DeepID2+: Deeply learned face representations are sparse, selective, and robust ([pdf](https://arxiv.org/abs/1412.1265))
+- DeepID3: Face recognition with very deep neural networks ([pdf](https://arxiv.org/abs/1502.00873)) 
 - FaceNet: A Unified Embedding for Face Recognition and Clustering ([pdf](https://arxiv.org/abs/1503.03832.pdf))
 	
 ### Uncategorized
@@ -43,6 +48,7 @@ Useful Links Of Machine Learning
 	+ From Neural PCA to Deep Unsupervised Learning ([pdf](https://arxiv.org/abs/1411.7783))
 	+ Semi-Supervised Learning with Ladder Networks ([pdf](https://arxiv.org/abs/1507.02672), [theano](https://github.com/CuriousAI/ladder), [tensorflow](https://github.com/rinuboney))
 	+ Deconstructing the Ladder Network Architecture ([pdf](https://arxiv.org/abs/1511.06430))
+- Learning Deep Features for Discriminative Localization ([pdf](https://arxiv.org/abs/1512.04150.pdf), [project](http://cnnlocalization.csail.mit.edu/))
 
 ## Conferentce Paper
 - NIPS ([2017](https://nips.cc/Conferences/2017/Schedule?showParentSession=8797), [2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
@@ -50,5 +56,5 @@ Useful Links Of Machine Learning
 - CVPR ([2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
 - ECCV ([2016](http://www.eccv2016.org/main-conference/))
-- ICCV ([2015](http://pamitc.org/iccv15/program.php))
+- ICCV ([2017](http://openaccess.thecvf.com/ICCV2017.py), [2015](http://pamitc.org/iccv15/program.php))
 
