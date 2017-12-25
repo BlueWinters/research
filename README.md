@@ -7,7 +7,7 @@ Useful Links Of Machine Learning
 ## Neutral Network
 
 ### Autoencoders
-- Adversarial Autoencoders ([pdf](https://arxiv.org/abs/1511.05644), [office-theano](https://github.com/hjweide/adversarial-autoencoder), [pytorch](https://github.com/fducau/AAE_pytorch))
+- Adversarial Autoencoders ([pdf](https://arxiv.org/abs/1511.05644), [theano](https://github.com/hjweide/adversarial-autoencoder), [pytorch](https://github.com/fducau/AAE_pytorch))
 - PixelGAN Autoencoders ([pdf]())
 
 ### Generative Model
@@ -76,14 +76,20 @@ Useful Links Of Machine Learning
 	- [ ] Deep metric learning using Triplet network ([pdf]())
 - Others
 	- [ ] DRAW:  A Recurrent Neural Network For Image Generation: ([pdf]())
-	- High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis ([pdf](https://arxiv.org/abs/1611.09969), [lua](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting))
+	- [ ] High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis ([pdf](https://arxiv.org/abs/1611.09969), [torch](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting))
 	- [x] Reconstruction of Hidden Representation for Robust Feature Extraction ([pdf]())
 	- [x] Between-class Learning for Image Classification ([pdf]())
-	- [x] Age Regression by Conditional Adversarial Autoencoder ([pdf]())
-	- [x] Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction ([pdf]())
+	- [x] Age Regression by Conditional Adversarial Autoencoder ([pdf](), [office](https://zzutk.github.io/Face-Aging-CAAE/))
+	- [x] Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction ([pdf](), [office](https://github.com/richzhang/splitbrainauto))
 	- [x] Stacked Similarity-Aware Autoencoders ([pdf]())
 	- [x] Joint Unsupervised Learning of Deep Representations and Image Clusters ([pdf]())
-	- [ ] Variational Approaches for Auto-Encoding Generative Adversarial Networks ([pdf]())
+- Waiting
+	- [ ] Non-local Neural Networks ([pdf]())
+	- [ ] Bilinear CNN Models for Fine-grained Visual Recognition ([pdf]())
+
+## Hard Paper
+- Variational Approaches for Auto-Encoding Generative Adversarial Networks ([pdf]())
+- Nonparametric Inference for Auto-Encoding Variational Bayes ([pdf]())
 
 
 ## Conferentce Paper
