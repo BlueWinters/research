@@ -8,15 +8,17 @@ Useful Links Of Machine Learning
 
 ### Autoencoders
 - Adversarial Autoencoders ([pdf](https://arxiv.org/abs/1511.05644), [theano](https://github.com/hjweide/adversarial-autoencoder), [pytorch](https://github.com/fducau/AAE_pytorch))
-- PixelGAN Autoencoders ([pdf]())
+- PixelGAN Autoencoders ([pdf](https://arxiv.org/abs/1706.00531))
+- Wasserstein Auto-Encoders ([pdf]())
 
 ### Generative Model
 - **GAN**: Generative Adversarial Networks ([pdf](https://arxiv.org/abs/1406.2661), code)
 - **InfoGAN**: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([pdf](https://arxiv.org/abs/1606.03657), [code](https://github.com/openai/InfoGAN))
-- **VAE**: Auto-Encoding Variational Bayes ([pdf](https://arxiv.org/abs/1312.6114), [tutorial](Tutorial on Variational Autoencoders), [tensorflow](https://github.com/y0ast/VAE-TensorFlow))
+- **VAE**: Auto-Encoding Variational Bayes ([pdf](https://arxiv.org/abs/1312.6114), [tutorial](), [tensorflow](https://github.com/y0ast/VAE-TensorFlow))
 - **PixelRNN**: Pixel Recurrent Neural Networks ([pdf](https://arxiv.org/abs/1601.06759))
 - **PixelCNN**: Conditional Image Generation with PixelCNN Decoders ([pdf](https://arxiv.org/abs/1606.05328))
 - **GMM**: Generative Moment Matching Networks ([pdf]())
+- **DARN**: Deep AutoRegressive Networks ([pdf]())
 
 ### Variants Of Convolution Network
 - Convolution Guide: A guide to convolution arithmetic for deeplearning ([pdf](https://arxiv.org/abs/1603.07285))
@@ -26,6 +28,8 @@ Useful Links Of Machine Learning
 ### Architeture Of Deep Network
 - **VggNet**: Very Deep Convolutional Networks for Large-Scale Image Recognition ([pdf](https://arxiv.org/abs/1409.1556))
 - **ResNet**: Deep Residual Learning for Image Recognition ([pdf](https://arxiv.org/abs/1512.03385v1), [tensorflow](https://github.com/tensorflow/models/tree/master/resnet), [caffe](https://github.com/KaimingHe/deep-residual-networks), [mxnet](https://github.com/tornadomeet/ResNet))
+- **WRN**: Wide residual networks ([pdf]())
+- **ResNext**: Aggregated residual transformations for deep neural networks ([pdf]())
 - **Incption**
 	+ **v1**: Going Deeper with Convolutions ([pdf](http://arxiv.org/abs/1409.4842))
 	+ **v2**: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](http://arxiv.org/abs/1502.03167))
@@ -33,6 +37,9 @@ Useful Links Of Machine Learning
 	+ **v4**: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning ([pdf](https://arxiv.org/abs/1602.07261))
 - **DenseNet**: Densely Connected Convolutional Networks ([pdf](https://arxiv.org/abs/1608.06993), [code](https://github.com/liuzhuang13/DenseNet))
 - **SiameseNet**: Siamese Neural Networks for One-shot Image Recognition ([pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf))
+- **MobileNets**: Efficient Convolutional Neural Networks for Mobile Vision Applications ([pdf](https://arxiv.org/abs/1704.04861))
+- **MobileNetV2**: Inverted Residuals and Linear Bottlenecks ([pdf](https://arxiv.org/abs/1801.04381.pdf))
+- **Xception**: Deep Learning with Depthwise Separable Convolutions ([pdf](https://arxiv.org/abs/1610.02357))
 	
 ### Tricks For Training Network
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
@@ -83,9 +90,21 @@ Useful Links Of Machine Learning
 	- [x] Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction ([pdf](), [office](https://github.com/richzhang/splitbrainauto))
 	- [x] Stacked Similarity-Aware Autoencoders ([pdf]())
 	- [x] Joint Unsupervised Learning of Deep Representations and Image Clusters ([pdf]())
+	- [ ] Lifelong learning with a network of experts ([pdf]())
+	- [x] Crossing Generative Adversarial Networks for Cross-View Person Re-identification ([pdf]())
+	- [x] Deep Unsupervised Clustering Using Mixture of Autoencoders ([pdf]())
 - Waiting
 	- [ ] Non-local Neural Networks ([pdf]())
 	- [ ] Bilinear CNN Models for Fine-grained Visual Recognition ([pdf]())
+	- [ ] Interpretable Transformations with Encoder-Decoder Networks ([pdf]())
+	- [ ] Deformable Convolutional Networks ([pdf]())
+	- [ ] Learning Hierarchical Features from Generative Models ([pdf](https://arxiv.org/abs/1702.083960))
+	- [ ] Multi-Level Variational Autoencoder: Learning Disentangled Representations from Grouped Observations ([pdf](https://arxiv.org/abs/1705.08841))
+	- [x] XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings
+	- [x] Crossing Generative Adversarial Networks for Cross-View Person Re-identification
+	- [x] Deep Unsupervised Clustering Using Mixture of Autoencoders
+	- [x] Adversarial Symmetric Variational Autoencoder
+	- [x] LapGAN: Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks ([pdf](https://arxiv.org/abs/1506.05751))
 
 ## Hard Paper
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks ([pdf]())
@@ -99,4 +118,5 @@ Useful Links Of Machine Learning
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
 - ECCV ([2016](http://www.eccv2016.org/main-conference/))
 - ICCV ([2017](http://openaccess.thecvf.com/ICCV2017.py), [2015](http://pamitc.org/iccv15/program.php))
+- AAAI ([2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf))
 
