@@ -50,6 +50,7 @@ Useful Links Of Machine Learning
 - DeepID2+: Deeply learned face representations are sparse, selective, and robust ([pdf](https://arxiv.org/abs/1412.1265))
 - DeepID3: Face recognition with very deep neural networks ([pdf](https://arxiv.org/abs/1502.00873)) 
 - FaceNet: A Unified Embedding for Face Recognition and Clustering ([pdf](https://arxiv.org/abs/1503.03832.pdf))
+- MTCNN: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks ([pdf]())
 
 ### Deep Metric Learning
 - TripletNet: Deep metric learning using Triplet network ([pdf](https://arxiv.org/abs/1412.6622))
@@ -114,7 +115,7 @@ Useful Links Of Machine Learning
 ## Conferentce Paper
 - NIPS ([2017](https://nips.cc/Conferences/2017/Schedule?type=Poster), [2016](https://nips.cc/Conferences/2016/Schedule?type=Poster), [2015](https://nips.cc/Conferences/2015/Schedule?type=Poster), [2014](https://nips.cc/Conferences/2014/Schedule?type=Poster))
 - ICML ([2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster), [2016](http://icml.cc/2016/?page_id=1649), [2015]())
-- CVPR ([2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
+- CVPR ([2018](http://openaccess.thecvf.com/CVPR2018.py), [2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
 - ECCV ([2016](http://www.eccv2016.org/main-conference/))
 - ICCV ([2017](http://openaccess.thecvf.com/ICCV2017.py), [2015](http://pamitc.org/iccv15/program.php))
