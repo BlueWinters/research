@@ -41,6 +41,24 @@ Useful Links Of Machine Learning
 - **MobileNetV2**: Inverted Residuals and Linear Bottlenecks ([pdf](https://arxiv.org/abs/1801.04381.pdf))
 - **Xception**: Deep Learning with Depthwise Separable Convolutions ([pdf](https://arxiv.org/abs/1610.02357))
 	
+### Object Detection
+- **RCNN** ([pdf]())
+- **Fast-RCNN** ([pdf]())
+- **Faster-RCNN** ([pdf]())
+- **R-FCN** ([pdf]())
+- **Mask-RCNN** ([pdf]())
+- **Focal Loss** ([pdf]())
+- **Non-local Neural Networks**([pdf]())
+- **FPN**: Feature Pyramid Networks for Object Detection ([pdf]())
+
+- **Cascade R-CNN**: Delving into High Quality Object Detection ([pdf](https://arxiv.org/abs/1712.00726.pdf))
+- **SNIP**: An Analysis of Scale Invariance in Object Detection ([pdf](https://arxiv.org/abs/1711.08189.pdf))
+- **YOLO-3D**: Real-Time Seamless Single Shot 6D Object Pose Prediction ([pdf](https://arxiv.org/abs/1711.08848v4.pdf))
+- **Light-Head R-CNN**: In Defense of Two-Stage Object Detector ([pdf]())
+
+### OCR
+- **CRNN**: An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognitio ([pdf]())
+	
 ### Tricks For Training Network
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
 
@@ -64,6 +82,9 @@ Useful Links Of Machine Learning
 	+ Deconstructing the Ladder Network Architecture ([pdf](https://arxiv.org/abs/1511.06430))
 - Learning Deep Features for Discriminative Localization ([pdf](https://arxiv.org/abs/1512.04150.pdf), [project](http://cnnlocalization.csail.mit.edu/))
 - [A Year In Computer Vision](http://www.themtank.org/a-year-in-computer-vision)
+- DeepWarp: Photorealistic Image Resynthesis for Gaze Manipulation ([pdf](), [tensorflow](https://github.com/BlueWinters/DeepWarp))
+- Perceptual Losses for Real-Time Style Transfer ([pdf]())
+- WESPE: Weakly Supervised Photo Enhancer for Digital Cameras ([pdf]())
 
 ### Image Inpainting
 - Context Encoders: Feature Learning by Inpainting ([pdf](https://arxiv.org/abs/1604.07379), [lua](https://github.com/pathak22/context-encoder), [pytorch](https://github.com/BoyuanJiang/context_encoder_pytorch))
@@ -95,7 +116,6 @@ Useful Links Of Machine Learning
 	- [x] Crossing Generative Adversarial Networks for Cross-View Person Re-identification ([pdf]())
 	- [x] Deep Unsupervised Clustering Using Mixture of Autoencoders ([pdf]())
 - Waiting
-	- [ ] Non-local Neural Networks ([pdf]())
 	- [ ] Bilinear CNN Models for Fine-grained Visual Recognition ([pdf]())
 	- [ ] Interpretable Transformations with Encoder-Decoder Networks ([pdf]())
 	- [ ] Deformable Convolutional Networks ([pdf]())
