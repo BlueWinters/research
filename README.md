@@ -42,22 +42,21 @@ Useful Links Of Machine Learning
 - **Xception**: Deep Learning with Depthwise Separable Convolutions ([pdf](https://arxiv.org/abs/1610.02357))
 	
 ### Object Detection
-- **RCNN** ([pdf]())
-- **Fast-RCNN** ([pdf]())
-- **Faster-RCNN** ([pdf]())
-- **R-FCN** ([pdf]())
-- **Mask-RCNN** ([pdf]())
-- **Focal Loss** ([pdf]())
-- **Non-local Neural Networks**([pdf]())
-- **FPN**: Feature Pyramid Networks for Object Detection ([pdf]())
-
+- **RCNN**: R-CNN: Regions with Convolutional Neural Network Features ([pdf](https://arxiv.org/abs/1311.2524))
+- **Fast-RCNN**: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks ([pdf](https://arxiv.org/abs/1506.01497))
+- **Faster-RCNN**: Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks ([pdf]())
+- **R-FCN** ([pdf](https://arxiv.org/pdf/1605.06409.pdf))
+- **Mask-RCNN** ([pdf](https://arxiv.org/abs/1703.06870))
+- **Focal Loss**: Focal Loss for Dense Object Detection ([pdf](https://arxiv.org/abs/1708.02002))
+- **Non-local Neural Networks**([pdf](https://arxiv.org/abs/1711.07971v1))
+- **FPN**: Feature Pyramid Networks for Object Detection ([pdf](https://arxiv.org/abs/1612.03144))
 - **Cascade R-CNN**: Delving into High Quality Object Detection ([pdf](https://arxiv.org/abs/1712.00726.pdf))
 - **SNIP**: An Analysis of Scale Invariance in Object Detection ([pdf](https://arxiv.org/abs/1711.08189.pdf))
 - **YOLO-3D**: Real-Time Seamless Single Shot 6D Object Pose Prediction ([pdf](https://arxiv.org/abs/1711.08848v4.pdf))
-- **Light-Head R-CNN**: In Defense of Two-Stage Object Detector ([pdf]())
+- **Light-Head R-CNN**: In Defense of Two-Stage Object Detector ([pdf](https://arxiv.org/abs/1711.07264))
 
 ### OCR
-- **CRNN**: An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognitio ([pdf]())
+- **CRNN**: An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognitio ([pdf](https://arxiv.org/abs/1507.05717))
 	
 ### Tricks For Training Network
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift ([pdf](https://arxiv.org/abs/1502.03167))
@@ -137,7 +136,7 @@ Useful Links Of Machine Learning
 - ICML ([2017](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster), [2016](http://icml.cc/2016/?page_id=1649), [2015]())
 - CVPR ([2018](http://openaccess.thecvf.com/CVPR2018.py), [2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2017](https://openreview.net/group?id=ICLR.cc/2017/conference))
-- ECCV ([2016](http://www.eccv2016.org/main-conference/))
+- ECCV ([2018](http://openaccess.thecvf.com/ECCV2018.py), ([2016](http://www.eccv2016.org/main-conference/))
 - ICCV ([2017](http://openaccess.thecvf.com/ICCV2017.py), [2015](http://pamitc.org/iccv15/program.php))
 - AAAI ([2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf))
 
