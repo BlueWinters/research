@@ -139,4 +139,4 @@ Useful Links Of Machine Learning
 - ECCV ([2018](http://openaccess.thecvf.com/ECCV2018.py), ([2016](http://www.eccv2016.org/main-conference/))
 - ICCV ([2017](http://openaccess.thecvf.com/ICCV2017.py), [2015](http://pamitc.org/iccv15/program.php))
 - AAAI ([2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf))
-- (Best Paper Awards in Computer Science (since 1996))[https://jeffhuang.com/best_paper_awards.html]
+- [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
