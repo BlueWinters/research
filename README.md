@@ -39,6 +39,7 @@ Useful Links Of Machine Learning
 - **SiameseNet**: Siamese Neural Networks for One-shot Image Recognition ([pdf](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf))
 - **MobileNets**: Efficient Convolutional Neural Networks for Mobile Vision Applications ([pdf](https://arxiv.org/abs/1704.04861))
 - **MobileNetV2**: Inverted Residuals and Linear Bottlenecks ([pdf](https://arxiv.org/abs/1801.04381.pdf))
+- **MobileNetV3**
 - **Xception**: Deep Learning with Depthwise Separable Convolutions ([pdf](https://arxiv.org/abs/1610.02357))
 	
 ### Object Detection
@@ -54,6 +55,7 @@ Useful Links Of Machine Learning
 - **SNIP**: An Analysis of Scale Invariance in Object Detection ([pdf](https://arxiv.org/abs/1711.08189.pdf))
 - **YOLO-3D**: Real-Time Seamless Single Shot 6D Object Pose Prediction ([pdf](https://arxiv.org/abs/1711.08848v4.pdf))
 - **Light-Head R-CNN**: In Defense of Two-Stage Object Detector ([pdf](https://arxiv.org/abs/1711.07264))
+- **FCOS**: Fully Convolutional One-Stage Object Detection ([pdf]())
 
 ### OCR
 - **CRNN**: An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognitio ([pdf](https://arxiv.org/abs/1507.05717))
@@ -125,6 +127,10 @@ Useful Links Of Machine Learning
 	- [x] Deep Unsupervised Clustering Using Mixture of Autoencoders
 	- [x] Adversarial Symmetric Variational Autoencoder
 	- [x] LapGAN: Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks ([pdf](https://arxiv.org/abs/1506.05751))
+- Recent
+	- [x] FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image
+	- [x] Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection
+
 
 ## Hard Paper
 - Variational Approaches for Auto-Encoding Generative Adversarial Networks ([pdf]())
@@ -132,11 +138,12 @@ Useful Links Of Machine Learning
 
 
 ## Conferentce Paper
+- ICRA ([2019](https://www.icra2019.org/))
 - NIPS ([2018](https://nips.cc/Conferences/2018/Schedule), [2017](https://nips.cc/Conferences/2017/Schedule), [2016](https://nips.cc/Conferences/2016/Schedule), [2015](https://nips.cc/Conferences/2015/Schedule), [2014](https://nips.cc/Conferences/2014/Schedule))
-- ICML ([2018](https://2017.icml.cc/Conferences/2018/Schedule), [2017](https://2017.icml.cc/Conferences/2017/Schedule), [2017](https://2016.icml.cc/Conferences/2016/Schedule), [2015](https://2016.icml.cc/Conferences/2015/Schedule))
-- CVPR ([2018](http://openaccess.thecvf.com/CVPR2018.py), [2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
+- ICML ([2019](https://icml.cc/Conferences/2019/Schedule?), [2018](https://2017.icml.cc/Conferences/2018/Schedule), [2017](https://2017.icml.cc/Conferences/2017/Schedule), [2017](https://2016.icml.cc/Conferences/2016/Schedule), [2015](https://2016.icml.cc/Conferences/2015/Schedule))
+- CVPR ([2019](http://openaccess.thecvf.com/CVPR2019.py), [2018](http://openaccess.thecvf.com/CVPR2018.py), [2017](http://openaccess.thecvf.com/CVPR2017.py), [2016](http://www.cv-foundation.org/openaccess/CVPR2016.py))
 - ICLR ([2018](https://iclr.cc/Conferences/2018/Schedule), [2017](https://iclr.cc/Conferences/2017/Schedule))
-- ECCV ([2018](http://openaccess.thecvf.com/ECCV2018.py), ([2016](http://www.eccv2016.org/main-conference/))
+- ECCV ([2018](http://openaccess.thecvf.com/ECCV2018.py), [2016](http://www.eccv2016.org/main-conference/))
 - ICCV ([2017](http://openaccess.thecvf.com/ICCV2017.py), [2015](http://pamitc.org/iccv15/program.php))
 - AAAI ([2018](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf))
 - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
