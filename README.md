@@ -20,6 +20,9 @@ Useful Links Of Machine Learning
 - **GMM**: Generative Moment Matching Networks ([pdf]())
 - **DARN**: Deep AutoRegressive Networks ([pdf]())
 
+### Representation Learning
+- Unsupervised Learning of Object Landmarks through Conditional Image Generation ([pdf](https://arxiv.org/abs/1806.07823))
+
 ### Variants Of Convolution Network
 - Convolution Guide: A guide to convolution arithmetic for deeplearning ([pdf](https://arxiv.org/abs/1603.07285))
 - Deformable Convolutional Networks ([pdf](http://arxiv.org/abs/1703.06211), [mxnet](https://github.com/felixlaumon/deform-conv))
